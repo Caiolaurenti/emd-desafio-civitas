@@ -6,7 +6,7 @@ with placas_seq as (
          camera_longitude
   from rj-cetrio.desafio.readings_2024_06
   where camera_latitude between -23.09617 and -22.71584
-  and camera_longitude between -43.83891 and -43.11669 -- aqui, fix um 
+  and camera_longitude between -43.83891 and -43.11669 -- aqui, fixei um retângulo contendo o rio de janeiro
   and datahora_captura between '2024-06-01 00:00:00' and '2024-06-30 23:59:59'
 ),     -- ordenando, por placa e tempo, os pontos por onde cada veículo passa
 params as (
