@@ -162,4 +162,4 @@ Para um total de 343422. Isso seria um indício de mais placas clonadas? Ou um e
 
 ### Conclusão
 
-Ou o Rio tem muitas placas clonadas, ou há um sério problema com os dados dessa tabela.
+Parece haver indícios de um grande número de placas clonadas.
