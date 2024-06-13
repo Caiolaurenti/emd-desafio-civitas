@@ -162,4 +162,4 @@ Para um total de 343422. Isso seria um indício de mais placas clonadas? Ou um e
 
 ### Conclusão
 
-Parece haver indícios de um grande número de placas clonadas.
+Parece haver indícios de um grande número de placas clonadas. Se o processo de identificação do tipo de veículo for automatizado, pode ser um erro do sistema de captura.
